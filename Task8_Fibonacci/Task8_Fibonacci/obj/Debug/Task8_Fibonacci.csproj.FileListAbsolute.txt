@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\bin\Debug\Task8_Fibonacci.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\bin\Debug\Task8_Fibonacci.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\bin\Debug\Task8_Fibonacci.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\obj\Debug\Task8_Fibonacci.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\obj\Debug\Task8_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\obj\Debug\Task8_Fibonacci.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Task8_Fibonacci\Task8_Fibonacci\obj\Debug\Task8_Fibonacci.pdb
